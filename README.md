@@ -17,7 +17,7 @@ Web Developer | HTML, CSS, JavaScript, Python, Batch
 ## 🚀 Current Project
 
 🔗 **Project repository:**  
-👉 https://github.com/ixhwa/rework_crunchyroll
+..nothing..
 
 📌 This project is under active development.  
 All progress, features, and fixes are tracked automatically through commits and releases.
